@@ -157,3 +157,7 @@ body {
         display: flex;
     justify-content: center;
       }
+
+      .main-image:active{
+        transform: scale(1.2);
+      }
